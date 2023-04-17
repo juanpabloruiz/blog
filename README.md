@@ -1,0 +1,2 @@
+# blog
+Prototype of blog
